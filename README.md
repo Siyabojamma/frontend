@@ -1,0 +1,1 @@
+Run `npm install` then `npm run dev` (Vite). Set VITE_API_URL to backend if needed.npm 
